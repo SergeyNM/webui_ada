@@ -30,7 +30,7 @@ Clone [WebUI_Ada](https://github.com/SergeyNM/webui_ada) from the GitHub.
 
 ```
 cd <some_projects_path>
-git clone https://github.com/SergeyNM/webui_ada
+git clone https://github.com/SergeyNM/webui_ada.git
 
 cd ./webui_ada
 ```
@@ -44,7 +44,7 @@ Examples can be found in [WebUI_Ada_Examples](https://github.com/SergeyNM/webui_
 
 ```
 cd <some_projects_path>
-git clone https://github.com/SergeyNM/webui_ada_examples
+git clone https://github.com/SergeyNM/webui_ada_examples.git
 
 cd ./webui_ada_examples
 ```
