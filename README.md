@@ -26,7 +26,7 @@ drwxrwxr-x 10 <current_user> <current_user>   4096 авг 21 18:12 ..
 ```
 
 # Compile WebUI_Ada
-Clone [WebUI_Ada](https://github.com/SergeyNM/webui_ada_examples) from the GitHub.
+Clone [WebUI_Ada](https://github.com/SergeyNM/webui_ada) from the GitHub.
 
 ```
 cd <some_projects_path>
