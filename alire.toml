@@ -1,0 +1,10 @@
+name = "webui_ada"
+description = "Ada wrapper to WebUI"
+version = "0.1.0-dev"
+
+authors = ["SergeyNM"]
+maintainers = ["SergeyNM <0000auto@gmail.com>"]
+maintainers-logins = ["SergeyNM"]
+licenses = "MIT"
+website = "https://github.com/webui-dev/webui"
+tags = ["javascript", "gui", "typescript", "browser", "web", "c", "cpp", "wrapper", "webapp", "webui"]
